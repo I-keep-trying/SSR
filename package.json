@@ -1,0 +1,11 @@
+{
+  "name": "ssr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./server/app.js",
+  "scripts": {
+    "start": "cd ./server && node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
