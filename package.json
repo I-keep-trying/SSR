@@ -5,7 +5,7 @@
   "main": "./server/app.js",
   "scripts": {
     "build": "cd ./client && npm i && npm run build",
-    "start": "cd ./server && node app.js"
+    "start": "cd ./server && npm i && node app.js"
   },
   "author": "",
   "license": "ISC"
